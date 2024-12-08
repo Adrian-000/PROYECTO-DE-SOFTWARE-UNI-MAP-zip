@@ -11,7 +11,7 @@ Para la ejecución del código se implementó flask como un intermediario entre 
 python app.py
 ```
 Es importante aclarar que la ventana del CMD deberá estar abierta para que el código pueda ser ejecutado.
-##Libreria
+# Libreria
 Para el uso del código deberá tener la siguiente libreria:
 - NMAP:
 Este paquete permite interactuar con Nmap, una herramienta de escaneo de redes. Deberá instalarse desde la consola y ademas se deberá tener instalado NMAP en el sistema. Puede descargarlo desde [nmap](https://nmap.org/ "nmap").
