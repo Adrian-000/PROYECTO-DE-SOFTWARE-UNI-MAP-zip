@@ -23,7 +23,7 @@ pip install python-nmap
 
 # Atención
 
-Para la redacción de correos se uso una cuenta GMAIL creada unicamente para la presentación del proyecto, el cual posiblemente sea borrada, si se desea enviar los reportes hacia los correos se tendrá que modificar las lineas** 273** (en esta parte se ubicá el correo gmail que se creó para la presentación del proyecto) y **314** (en esta parte se ubica la contraseña de aplicación y esta se deberá generar de la cuenta a usar). Pueden ser modificadas con los usuarios de remitente a emplear. 
+Para la redacción de correos se usó una cuenta GMAIL creada unicamente para la presentación del proyecto, el cual posiblemente sea borrada, si se desea enviar los reportes hacia los correos se tendrá que modificar las lineas** 273** (en ésta parte se ubica el correo gmail que se creó para la presentación del proyecto) y **314** (en esta parte se ubica la contraseña de aplicación y ésta se deberá generar de la cuenta a usar). Pueden ser modificadas con los usuarios de remitente a emplear. 
 
 # Autores
 
